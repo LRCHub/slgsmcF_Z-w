@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "YOUNG STAR",
+  "base_artist": "STACK THE PINK",
+  "createdAt": "2025-12-19T13:23:38.583698Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Letter To My Opps (feat. Young Star 6ixx)",
+      "artist": "West Bank Records",
+      "has_synced": false,
+      "path": "select/01_Letter_To_My_Opps_(feat._Young_Star_6ixx)_West_Bank_Records.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nobody (feat. Young Star 6ixx & Tafari)",
+      "artist": "Going Global Records",
+      "has_synced": false,
+      "path": "select/02_Nobody_(feat._Young_Star_6ixx_&_Tafari)_Going_Global_Records.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Die Young",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/03_Die_Young_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Country Boy (feat. Charlie Daniels, Chris Young, & George Jones)",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/04_Country_Boy_(feat._Charlie_Daniels,_Chris_Young,_&_George_Jones)_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If I Die Young",
+      "artist": "The Band Perry",
+      "has_synced": true,
+      "path": "select/05_If_I_Die_Young_The_Band_Perry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Map of Tasmania (Feat. The Young Punx)",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/06_Map_of_Tasmania_(Feat._The_Young_Punx)_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blame It On Being Young",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/07_Blame_It_On_Being_Young_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If the Good Die Young",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/08_If_the_Good_Die_Young_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If the Good Die Young (Album Version)",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/09_If_the_Good_Die_Young_(Album_Version)_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Much Too Young (To Feel This Damn Old)",
+      "artist": "Brooks Jefferson",
+      "has_synced": false,
+      "path": "select/10_Much_Too_Young_(To_Feel_This_Damn_Old)_Brooks_Jefferson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Til Now (feat. Brett Young)",
+      "artist": "Ashley Cooke",
+      "has_synced": true,
+      "path": "select/11_Never_Til_Now_(feat._Brett_Young)_Ashley_Cooke.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Remember You Young",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/12_Remember_You_Young_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Startin' Young",
+      "artist": "Brandon Lay",
+      "has_synced": true,
+      "path": "select/13_Startin'_Young_Brandon_Lay.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stay Young",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/14_Stay_Young_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Young Country",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/15_Young_Country_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Young Forever",
+      "artist": "Eric Paslay",
+      "has_synced": false,
+      "path": "select/16_Young_Forever_Eric_Paslay.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Young Love",
+      "artist": "Sonny James",
+      "has_synced": true,
+      "path": "select/17_Young_Love_Sonny_James.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YOUNG STAR (feat. JETG)",
+      "artist": "STACK THE PINK",
+      "has_synced": false,
+      "path": "select/pl_01_YOUNG_STAR_(feat._JETG)_STACK_THE_PINK.txt"
+    }
+  ]
+}
